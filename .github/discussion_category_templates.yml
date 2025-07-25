@@ -1,0 +1,25 @@
+# .github/discussion_category_templates.yml
+- name: Idées
+  description: Partagez-moi tous les logiciels ou outils que vous voudriez qu'on teste sur la chaîne !
+  is_answerable: false # Ceci indique que ce n'est pas une question/réponse stricte
+  body: |
+    Salut ! 👋
+
+    Tu as un logiciel, un outil ou un service que tu aimerais voir tester sur la chaîne YouTube ? C'est le bon endroit pour le suggérer ! Pour m'aider à bien comprendre ta demande, merci de répondre à ces quelques questions :
+
+    ### 📝 C'est quoi le nom du logiciel / de l'outil ?
+    [Nom complet de l'application, du service ou de l'outil.]
+
+    ### 🔗 Où le trouver ?
+    [Lien(s) vers le site officiel, GitHub, ou d'autres pages pertinentes.]
+
+    ### 💡 Pourquoi tu penses que c'est intéressant pour la chaîne ?
+    [Explique ce qui rend ce logiciel unique, utile ou pertinent pour mon audience et pourquoi il mérite un test.]
+
+    ### 🛠️ Pour quel usage est-il conçu ?
+    [Décris brièvement à quoi il sert ou le problème qu'il résout.]
+
+    ---
+
+    **Merci pour ta suggestion !**
+    Je lis toutes les propositions, mais je ne peux pas garantir de tester chaque logiciel. Les plus demandés auront plus de chances ! N'hésite pas à upvoter les suggestions que tu soutiens.
