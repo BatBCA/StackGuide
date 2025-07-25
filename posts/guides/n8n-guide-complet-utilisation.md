@@ -49,7 +49,18 @@ Excellente option pour ceux qui veulent plus de flexibilité sans complications 
 
 Niveau de difficulté : 🌶️🌶️ (facile à modéré)
 
-## Option 3 : VPS personnel avec installation manuelle
+## Option 3 : Avec Cloudron sur son propre VPS
+
+Une autre option consiste à utiliser un VPS dédié qui n'a pas d'installation "clé en main" pour n8n.
+Comme expliqué dans le point 4.
+Tout en utilisant Cloudron pour faciliter l'installation, le maintien et les mises à jour quotidiennes.
+
+Cette option est gratuite pour déployer jusqu'à deux applications sur son VPS.
+Puis devient payante à partir de la 3ème application.
+
+Niveau de difficulté : 🌶️🌶️ (facile à modéré)
+
+## Option 4 : VPS personnel avec installation manuelle
 L'hébergement VPS traditionnel
 Cette option implique de louer un serveur vierge (VPS) chez un hébergeur comme Infomaniak ou OVH, puis d'installer N8N manuellement.
 
@@ -74,11 +85,6 @@ Notre verdict
 Option idéale pour les utilisateurs techniques qui veulent maximiser leur contrôle et minimiser leurs coûts. L'investissement en temps d'apprentissage peut être rentable à long terme.
 
 Niveau de difficulté : 🌶️🌶️🌶️ (modéré à difficile)
-
-## Option 4 : Avec Cloudron sur son propre VPS
-
-Une autre option consiste à utiliser un VPS dédié qui n'a pas d'installation "clé en main" pour n8n.
-Mais d'utiliser Cloudron pour faciliter l'installation, le maintien et les mises à jour quotidiennes.
 
 ## Option 5 : Installation locale via NPM
 Le déploiement en local
