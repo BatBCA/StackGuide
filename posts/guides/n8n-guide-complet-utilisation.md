@@ -77,6 +77,9 @@ Niveau de difficulté : 🌶️🌶️🌶️ (modéré à difficile)
 
 ## Option 4 : Avec Cloudron sur son propre VPS
 
+Une autre option consiste à utiliser un VPS dédié qui n'a pas d'installation "clé en main" pour n8n.
+Mais d'utiliser Cloudron pour faciliter l'installation, le maintien et les mises à jour quotidiennes.
+
 ## Option 5 : Installation locale via NPM
 Le déploiement en local
 Cette méthode consiste à installer n8n directement sur votre ordinateur personnel via NPM (Node Package Manager).
